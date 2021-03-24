@@ -18,7 +18,7 @@ const AddToDo = (props) => {
             e.target.userInput.value = "";
         }
         else{
-            alert("plz insert somthing");
+            alert("Please insert something");
         
         }
         
